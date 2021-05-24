@@ -19,12 +19,12 @@
         <tr>
             <td><strong>Dark/Light version</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (No)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
          <tr>
             <td><strong>Social Menu</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (No)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
             <td><strong>Menu Sticky</strong></td>
