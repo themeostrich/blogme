@@ -59,7 +59,7 @@
         <tr>
             <td><strong>Enable/Disable Scroll up.</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
             <td><strong>Global Layout</strong></td>
@@ -69,12 +69,12 @@
         <tr>
             <td><strong>Single Posts customizer setting</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
             <td><strong>Single Page customizer setting</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
             <td><strong>Archive/Blog</strong></td>
@@ -129,7 +129,7 @@
         <tr>
             <td><strong>Banner section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (Options: Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Popular Post</strong></td>
@@ -144,7 +144,7 @@
         <tr>
             <td><strong>Insta(Gallery) Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (Options: Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
     </tbody>
 </table>
